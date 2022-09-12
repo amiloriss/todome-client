@@ -1,0 +1,11 @@
+:root {
+    --silver-border-color: rgb(223, 227, 236);
+    --silver-color: rgb(232, 232, 232);
+    --light-silver-color: rgb(164, 164, 164);
+    --main-text-color: rgb(70, 70, 70);
+    --blue-color: rgb(0, 149, 255);
+    --light-blue-color: rgba(0, 149, 255, 0.061);
+    --white-color: #fff;
+    --background-app-color: rgba(242, 247, 255, 0.761);
+    --background-btn-orange-color: rgb(243, 102, 47);
+} 
